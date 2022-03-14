@@ -1,0 +1,4 @@
+---
+# defaults file for create_file
+my_own_path: ./new_file.txt
+my_own_content: "some content"

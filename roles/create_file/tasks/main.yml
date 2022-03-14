@@ -1,0 +1,5 @@
+---
+- name: Create file
+  belas80.my_own_collection.my_own_module:
+    path: "{{ my_own_path }}"
+    content: "{{ my_own_content }}"

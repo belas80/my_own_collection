@@ -1,0 +1,5 @@
+---
+  - name: Create file
+    hosts: localhost
+    roles:
+      - belas80.my_own_collection.create_file
